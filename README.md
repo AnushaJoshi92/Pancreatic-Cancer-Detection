@@ -21,6 +21,6 @@ Predictor variables used are: age, sex, creatinine, LYVE1, REG1B, and TFF1.
 
 Model Conclusions:
 1. Normalized the data
-2. Compared the accuracy of models between: Simple Logistic Regression, SVM and Decision Tree classifier and found that simple logistic regression works best here. Comparison made using K-fold cross validation data.
+2. Compared the accuracy of models between: Simple Logistic Regression, SVM and Decision Tree classifier and found that simple logistic regression works best here. Comparison made using K-fold cross validation method.
 3. Final accuracy of the model: 82.2%
 4. AUC-ROC score: 77.8
