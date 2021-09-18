@@ -1,4 +1,4 @@
-# DS-Data-sets
+# Pancreatic Cancer Detection
 Pancreatic Cancer Detection Model Building:
 
 Identify patients with Pancreatic Cancer using urine biomarkers
